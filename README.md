@@ -44,8 +44,7 @@ database='webscrapdb1',
 charset='utf8mb4',
 cursorclass=pymysql.cursors.DictCursor
 )
-List of URLs:
-Update the urls list in the script to include the websites you want to scrape.
+
 
 Functionality
 
