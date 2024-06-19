@@ -128,4 +128,3 @@ The analysis revealed significant insights into technology trends across differe
 Tools and Libraries Used in visualization
 Python
 pandas, matplotlib
-C:\Users\nandini oberoi\OneDrive - gndu.ac.in\Pictures\Screenshots\Screenshot (70).png
